@@ -1,11 +1,11 @@
-About r-mailr
-=============
+About r-mailr-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mailr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/rpremraj/mailR
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mailr-feedstock/blob/main/LICENSE.txt)
 
 Summary: Interface to Apache Commons Email to send emails from R.
 
